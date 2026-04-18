@@ -30,5 +30,6 @@
 </p>
 ### ✍️ Son Məqalələrim / Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hüquq Tələbəsi Niyə Linux Öyrənməlidir? Rəqəmsal Ədalətin Yeni Dili](https://medium.com/@elcankarimli08/h%C3%BCquq-t%C9%99l%C9%99b%C9%99si-niy%C9%99-linux-%C3%B6yr%C9%99nm%C9%99lidir-r%C9%99q%C9%99msal-%C9%99dal%C9%99tin-yeni-dili-0c0356f58d60?source=rss-bbe89a708651------2)
 - [Code is Law: Why Law Students Should Learn to Hack](https://medium.com/@elcankarimli08/code-is-law-why-law-students-should-learn-to-hack-2e1afd023179?source=rss-bbe89a708651------2)
 <!-- BLOG-POST-LIST:END -->
