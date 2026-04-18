@@ -29,6 +29,5 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 </p>
 
-### ✍️ Son Məqalələrim / Latest Blog Posts
-""
-""
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
