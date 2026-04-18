@@ -30,4 +30,5 @@
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Code is Law: Why Law Students Should Learn to Hack](https://medium.com/@elcankarimli08/code-is-law-why-law-students-should-learn-to-hack-2e1afd023179?source=rss-bbe89a708651------2)
 <!-- BLOG-POST-LIST:END -->
