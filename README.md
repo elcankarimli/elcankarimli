@@ -12,6 +12,7 @@
 - 💬 Ask me about **Cybersecurity, Legal Tech, and Kali Linux**
 
 - 📫 How to reach me **elcankarimli08@gmail.com**
+- and **www.linkedin.com/in/kerimlielcan**
 
 - ⚡ Fun fact **I'm a law student who prefers terminals over courtrooms.**
 
