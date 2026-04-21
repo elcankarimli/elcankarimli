@@ -31,6 +31,7 @@
 </p>
 ### ✍️ Son Məqalələrim / Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Rəqəmsal Keçmişi Silmək: “Unudulmaq Hüququ”](https://medium.com/@elcankarimli08/r%C9%99q%C9%99msal-ke%C3%A7mi%C5%9Fi-silm%C9%99k-unudulmaq-h%C3%BCququ-905e1f0bbc46?source=rss-bbe89a708651------2)
 - [Rəqəmsal Müqavilələrin Kölgəsində: Əməliyyat Sistemlərinin Hüquqi Arxitekturası](https://medium.com/@elcankarimli08/r%C9%99q%C9%99msal-m%C3%BCqavil%C9%99l%C9%99rin-k%C3%B6lg%C9%99sind%C9%99-%C9%99m%C9%99liyyat-sisteml%C9%99rinin-h%C3%BCquqi-arxitekturas%C4%B1-e9da8351e31c?source=rss-bbe89a708651------2)
 - [Hüquq Tələbəsi Niyə Linux Öyrənməlidir? Rəqəmsal Ədalətin Yeni Dili](https://medium.com/@elcankarimli08/h%C3%BCquq-t%C9%99l%C9%99b%C9%99si-niy%C9%99-linux-%C3%B6yr%C9%99nm%C9%99lidir-r%C9%99q%C9%99msal-%C9%99dal%C9%99tin-yeni-dili-0c0356f58d60?source=rss-bbe89a708651------2)
 - [Code is Law: Why Law Students Should Learn to Hack](https://medium.com/@elcankarimli08/code-is-law-why-law-students-should-learn-to-hack-2e1afd023179?source=rss-bbe89a708651------2)
